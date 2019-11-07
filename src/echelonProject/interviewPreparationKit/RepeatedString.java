@@ -2,7 +2,7 @@ package echelonProject.interviewPreparationKit;
 
 public class RepeatedString {
 	
-	public static long repeatedString(String pattern, long n) {
+	public static long repeatedString(String s, long n) {
 		long result = 0l;
 		
 		for(char c : s.toCharArray()) {
