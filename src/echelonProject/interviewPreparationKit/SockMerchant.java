@@ -4,7 +4,7 @@ import java.util.HashSet;
 
 public class SockMerchant {
 	
-	public static int sockMerchant(int n, int[] ar){
+	public static int solution(int n, int[] ar){
         
         int pairs = 0;
 

@@ -2,7 +2,7 @@ package echelonProject.interviewPreparationKit;
 
 public class JumpingOnTheClouds {
 	
-	public static int jumpingOnClouds(int n, int[] c) {
+	public static int solution(int n, int[] c) {
         int jumps = 0;
         
         int back = 1;

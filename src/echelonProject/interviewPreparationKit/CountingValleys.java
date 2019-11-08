@@ -2,7 +2,7 @@ package echelonProject.interviewPreparationKit;
 
 public class CountingValleys {
 
-	public static int countingValleys(int n, String s) {
+	public static int solution(int n, String s) {
         int level = 0;
         int valley = 0;
 
