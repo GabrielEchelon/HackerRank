@@ -1,4 +1,4 @@
-package echelonProject.util;
+package echelon.util;
 
 import java.util.Random;
 

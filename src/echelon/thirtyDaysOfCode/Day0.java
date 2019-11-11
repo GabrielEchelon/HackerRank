@@ -1,4 +1,4 @@
-package echelonProject.thirtyDaysOfCode;
+package echelon.thirtyDaysOfCode;
 
 import java.util.Scanner;
 

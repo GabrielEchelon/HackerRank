@@ -1,6 +1,23 @@
-package echelonProject.interviewPreparationKit;
+package echelon.interviewPreparationKit;
 
 public class JumpingOnTheClouds {
+	
+	public static void testCases() {
+		System.out.println("Jumping On The Clouds - Author: Shafet - Difficulty: Easy");
+		System.out.println("TestCase 0:");
+		
+		int n = 7;
+		int c[] = {0,0,1,0,0,1,0};
+		
+		System.out.println(solution(n, c) + "\n");
+		
+		System.out.println("TestCase 1:");
+		
+		n = 6;
+		int d[] = {0,0,0,0,1,0};
+		System.out.println(solution(n, d) + "\n");
+		
+	}
 	
 	public static int solution(int n, int[] c) {
         int jumps = 0;
