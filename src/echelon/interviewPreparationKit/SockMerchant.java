@@ -5,7 +5,7 @@ import java.util.HashSet;
 public class SockMerchant {
 	
 	public static void testCases() {
-		System.out.println("Sock Merchant - Author: Shafet - Difficulty: Easy");
+		System.out.println("Sock Merchant - Author: Shafaet - Difficulty: Easy");
 		System.out.println("TestCase 0:");
 		
 		int n = 9;

@@ -3,7 +3,7 @@ package echelon.interviewPreparationKit;
 public class JumpingOnTheClouds {
 	
 	public static void testCases() {
-		System.out.println("Jumping On The Clouds - Author: Shafet - Difficulty: Easy");
+		System.out.println("Jumping On The Clouds - Author: Shafaet - Difficulty: Easy");
 		System.out.println("TestCase 0:");
 		
 		int n = 7;

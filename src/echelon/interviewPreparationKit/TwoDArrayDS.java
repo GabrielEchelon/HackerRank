@@ -3,7 +3,7 @@ package echelon.interviewPreparationKit;
 public class TwoDArrayDS {
 	
 	public static void testCases() {
-		System.out.println("2D Array DS - Author: Shafet - Difficulty: Easy ");
+		System.out.println("2D Array DS - Author: Shafaet - Difficulty: Easy ");
 		System.out.println("TestCase 0:");
 		
 		int[][] i = {{-9,-9,-9,1,1,1}, 
